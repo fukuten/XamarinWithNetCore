@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/textView1" />
     <Button
-        android:text=".NET Framework 4.5"
+        android:text=".NET Framework 4.6"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/button1" />
