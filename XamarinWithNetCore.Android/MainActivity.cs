@@ -31,7 +31,7 @@ namespace XamarinWithNetCore.Android
             var button3 = FindViewById<Button>(Resource.Id.button3);
             button3.Click += (sender, e) =>
             {
-                //textView.Text = 
+                textView.Text = XamarinWithNetCore.NetStandard.Demo.Greet();
             };
         }
     }
